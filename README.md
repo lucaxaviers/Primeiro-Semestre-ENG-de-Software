@@ -1,5 +1,5 @@
-# Atividade em Phthon 1° Semestre
+# Atividade em Python 1° Semestre
 ----------------------------------------------------
-Atividade em Phthon 1° Semestre
+Calcular a Área e o Perimetro de um quadrado
 ----------------------------------------------------
 
