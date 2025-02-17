@@ -1,6 +1,5 @@
 # 1° Semestre Engenharia de Software
-----------------------------------------------------
-Este repositório contém todas as atividades que concluí durante o 1º semestre do curso de Engenharia de Software. Nele, estão registrados meus aprendizados e exercícios práticos em Python, abordando conceitos fundamentais de programação.
+---------------------------------------
 
 Atividades realizadas:
 
