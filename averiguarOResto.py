@@ -1,3 +1,5 @@
+Ver o Resto da Divisão em Python
+-------------------------------------------------------
 numero=int(input("digite o numero que vai dividido "))
 divisor=int(input("digite o divisor "))
 conta=numero/divisor
