@@ -1,7 +1,7 @@
 # 1° Semestre Engenharia de Software
 ---------------------------------------
 
-Atividades realizadas:
+# Atividades realizadas:
 
 •	Calcular a área e o perímetro de um quadrado em Python
 
