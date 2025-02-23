@@ -1,5 +1,5 @@
 # 🎓1° Semestre Engenharia de Software
----------------------------------------
+
 
 # 📚Atividades realizadas:
 
