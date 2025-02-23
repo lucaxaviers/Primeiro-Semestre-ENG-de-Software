@@ -1,3 +1,5 @@
+Calcular o troco em Phyton apenas numeros inteiros
+---------------------------------------------------
 # Solicita os valores
 recebido = int(input("Valor recebido: R$"))
 compra = int(input("Valor da compra: R$"))
