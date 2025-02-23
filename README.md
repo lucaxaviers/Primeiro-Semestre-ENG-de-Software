@@ -9,6 +9,4 @@
 
 •	Calcular o resto de uma divisão em Python
 
-• Desenvolver um sistema em Python para calcular o troco de uma compra  
-
-
+•   Desenvolver um sistema de cálculo de troco em Python
