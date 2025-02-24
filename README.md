@@ -1,14 +1,10 @@
-# 🎓1° Semestre Engenharia de Software
+# 🎓 1º Semestre - Engenharia de Software  
+📌 *Início da minha jornada na PUC-Campinas, aprofundando conhecimentos em lógica de programação e desenvolvimento de software.*  
 
+## 📚 Atividades Realizadas :
 
-# 📚Atividades realizadas:
-
-**⚙️Algoritmos de Programação:**
-
-•	Calcular a área e o perímetro de um quadrado em Python
-
-•	Determinar o antecessor e o sucessor de um número em Python
-
-•	Calcular o resto de uma divisão em Python
-
-•   Desenvolver um sistema de cálculo de troco em Python
+ * ⚙️ Algoritmos e Programação *
+✔️ Cálculo da área e do perímetro de um quadrado em Python  
+✔️ Determinação do antecessor e sucessor de um número em Python  
+✔️ Cálculo do resto de uma divisão em Python  
+✔️ Desenvolvimento de um sistema de cálculo de troco em Python  
