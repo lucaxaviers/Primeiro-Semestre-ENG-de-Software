@@ -1,5 +1,8 @@
 Descobrindo o Antecessor e o Sucessor em Phyton 
 --------------------------------------------------------
+# Exibe o título do cálculo
+print("DESCUBRINDO O ANTECESSOR E SUCESSOR")
+
 # Solicita ao usuário um número inteiro
 numero = int(input("Digite um número inteiro = "))
 
