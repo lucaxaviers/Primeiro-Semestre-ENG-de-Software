@@ -1,6 +1,5 @@
 Calcula o salário bruto, o desconto de 8% e o salário líquido do encanador
 ----------------------------------------------------------------------------------
-
 # Solicita a quantidade de dias trabalhados
 dias = int(input("Digite a quantidade de Dias que o Encanador trabalhou= "))
 
