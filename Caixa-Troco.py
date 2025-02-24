@@ -1,4 +1,4 @@
-Calcular o troco em Phyton apenas numeros inteiros
+Calcular o troco em Phyton apenas números inteiros
 ------------------------------------------------------------
 # Solicita os valores
 recebido = int(input("Valor recebido: R$"))
@@ -9,7 +9,7 @@ troco = recebido - compra
 
 # Verifica se o valor é suficiente
 if troco < 0:
-    print("Valor insuficiente. Não há troco.")
+    print("Não há troco.")
 else:
     print(f"Troco a ser dado: R${troco}")
     
@@ -23,7 +23,3 @@ else:
 
         if qtd > 0:
             print(f"{qtd} nota(s) de {cedula}")
-    
-    # Caso sobrem centavos
-    if troco > 0:
-        print(f"Não foi possível entregar o troco completo. Sobrou {troco} centavos.")
