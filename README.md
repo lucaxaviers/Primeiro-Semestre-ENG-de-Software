@@ -18,4 +18,4 @@
 
 ✔️ Definição de projeto  
 ✔️ Estudo de requisitos  
-✔️ Pesquisa sobre sustentabilidade em software  
+✔️ Pesquisa sobre sustentabilidade
