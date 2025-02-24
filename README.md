@@ -1,6 +1,6 @@
 # 🎓 1º Semestre - Engenharia de Software
 
-Cursando o 1º Semestre breve resumo das atividades feitas até o momento
+Cursando o 1º Semestre de ENG de Software breve resumo das atividades feitas até o momento
 
 ## 📚 Atividades Realizadas:
 
