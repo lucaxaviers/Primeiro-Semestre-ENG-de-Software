@@ -1,5 +1,5 @@
-Converte o valor em dólares para reais com base na cotação informada
-----------------------------------------------------------------------------
+##Converte o valor em dólares para reais com base na cotação informada
+##----------------------------------------------------------------------------
 # Exibe o título do cálculo
 print("CONVERSÃO DE DÓLAR PARA REAIS")
 
