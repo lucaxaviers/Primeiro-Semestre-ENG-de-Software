@@ -1,5 +1,4 @@
 # 🎓 1º Semestre - Engenharia de Software  
-Início da minha jornada na PUC-Campinas, aprofundando conhecimentos em lógica de programação e desenvolvimento de software.
 
 ## 📚 Atividades Realizadas :
 
