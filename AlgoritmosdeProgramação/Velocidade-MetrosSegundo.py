@@ -1,5 +1,8 @@
 Converter Km/h para m/s em Python
----------------------------------------
+--------------------------------------------
+# Exibe o título do cálculo
+print("CONVERSOR DE VELOCIDADE DE KM/H PARA M/S")
+
 # Solicita a velocidade em Km/h
 velocidade = float(input("Digite a velocidade em Km/h= "))
 
