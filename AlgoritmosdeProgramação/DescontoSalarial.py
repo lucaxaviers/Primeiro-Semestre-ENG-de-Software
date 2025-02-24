@@ -1,5 +1,8 @@
 Calcula o salário bruto, o desconto de 8% e o salário líquido do encanador
 ----------------------------------------------------------------------------------
+# Exibe o título do cálculo
+print("CALCULO DE SALÁRIO DO ENCANADOR")
+
 # Solicita a quantidade de dias trabalhados
 dias = int(input("Digite a quantidade de Dias que o Encanador trabalhou= "))
 
@@ -20,4 +23,3 @@ print(f"Desconto: R$ ", desconto)
 
 # Exibe o salário líquido após o desconto
 print(f"Salario Liquido:R$ ", liquido)
-
