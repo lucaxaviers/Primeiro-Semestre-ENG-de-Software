@@ -3,6 +3,8 @@
 
 # 📚Atividades realizadas:
 
+**⚙️Algoritmos de Programação:**
+
 •	Calcular a área e o perímetro de um quadrado em Python
 
 •	Determinar o antecessor e o sucessor de um número em Python
