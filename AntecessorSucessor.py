@@ -1,7 +1,12 @@
 Descobrindo o Antecessor e o Sucessor em Phyton 
 --------------------------------------------------------
-numero=int(input("Digite um numero inteiro= "))
-ante=(numero-1)
-sucessor=(numero+1)
-print("o antecessor e:  ",ante)
-print("\n o sucessor e: ",sucessor)
+# Solicita ao usuário um número inteiro
+numero = int(input("Digite um número inteiro = "))
+
+# Calcula o antecessor e o sucessor do número
+ante = (numero - 1)
+sucessor = (numero + 1)
+
+# Exibe o antecessor e o sucessor
+print("O antecessor é:", ante)
+print("\nO sucessor é:", sucessor)
