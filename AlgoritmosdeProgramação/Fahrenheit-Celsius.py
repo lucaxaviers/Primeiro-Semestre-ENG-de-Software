@@ -1,5 +1,8 @@
 Converter Fahrenheit para Celsius em Python
 --------------------------------------------------
+# Exibe o título do cálculo
+print("CONVERSOR DE TEMPERATURA DE FAHRENHEIT PARA CELSIUS")
+
 # Solicita a temperatura em Fahrenheit
 Fahrenheit = float(input("Digite a temperatura em °F = "))
 
