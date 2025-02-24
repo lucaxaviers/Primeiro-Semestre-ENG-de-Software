@@ -3,7 +3,7 @@ Início da minha jornada na PUC-Campinas, aprofundando conhecimentos em lógica 
 
 ## 📚 Atividades Realizadas :
 
-*⚙️ Algoritmos e Programação 
+**⚙️ Algoritmos e Programação**
 
 ✔️ Cálculo da área e do perímetro de um quadrado em Python  
 ✔️ Determinação do antecessor e sucessor de um número em Python  
