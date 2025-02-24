@@ -16,6 +16,6 @@
 
 ### 📋 Projeto Integrador
 
-✔️ Definição de projeto: Esforço temporário com início e fim, com resultados dentro de restrições como tempo, custo e qualidade.  
-✔️ Estudo de requisitos com IEEE 830 e FURPS  
+✔️ Definição de projeto  
+✔️ Estudo de requisitos  
 ✔️ Pesquisa sobre sustentabilidade em software  
