@@ -24,4 +24,4 @@ Cursando o 1º Semestre de ENG de Software breve resumo das atividades feitas at
 
 ### 🧑‍💻 Tecnologias em TI
 
-✔️ Organização de Churrasco Microsoft Project
+✔️ Organização de Churrasco pelo Microsoft Project
