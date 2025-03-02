@@ -21,3 +21,7 @@ Cursando o 1º Semestre de ENG de Software breve resumo das atividades feitas at
 ✔️ Definição de projeto  
 ✔️ Estudo de requisitos  
 ✔️ Pesquisa sobre sustentabilidade
+
+### 🧑‍💻 Tecnologias em TI
+
+✔️ Organização de Churrasco Microsoft Project
