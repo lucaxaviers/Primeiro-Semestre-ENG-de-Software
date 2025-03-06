@@ -1,3 +1,5 @@
+Vai ver qual o maior entre três numeros inteiros
+---------------------------------------------------------
 # Solicita ao usuário que insira três números inteiros
 numero1 = int(input("Digite o primeiro número: "))
 numero2 = int(input("Digite o segundo número: "))
