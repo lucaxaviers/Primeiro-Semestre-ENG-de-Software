@@ -1,3 +1,5 @@
+Define o valor de Y de acordo com as condições especificadas no exercício
+--------------------------------------------
 # Solicita que insira um número
 x= float(input("Digite um número: "))
 
