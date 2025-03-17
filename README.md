@@ -29,7 +29,7 @@ Cursando o 1º Semestre de ENG de Software breve resumo das atividades feitas at
 ✔️ Pesquisa para Definir projeto  
 ✔️ Pesquisa sobre requisitos  
 ✔️ Pesquisa sobre sustentabilidade
-✔️ Pesquisa sobre sustentabilidade
+
 ✔️ Levantamento de Requisitos do Sistema
 
 
