@@ -24,13 +24,12 @@ Cursando o 1º Semestre de ENG de Software breve resumo das atividades feitas at
 ✔️ Verificação de número par ou ímpar em Python  
 ✔️ Verificação de número positivo ou negativo em Python
 
-### 📋 Projeto Integrador
+# 📋 Projeto Integrador  
 
-✔️ Pesquisa para Definir projeto  
+✔️ Pesquisa para definir projeto  
 ✔️ Pesquisa sobre requisitos  
-✔️ Pesquisa sobre sustentabilidade
-✔️ Levantamento de Requisitos do Sistema
-
+✔️ Pesquisa sobre sustentabilidade  
+✔️ Levantamento de requisitos do sistema  
 
 ### 🧑‍💻 Tecnologias em TI
 
