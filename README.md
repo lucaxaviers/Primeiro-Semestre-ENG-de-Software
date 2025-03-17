@@ -36,3 +36,13 @@ Cursando o 1º Semestre de ENG de Software breve resumo das atividades feitas at
 ### 🧑‍💻 Tecnologias em TI
 
 ✔️ Organização de Churrasco pelo Microsoft Project
+
+### 🗃️ Banco de Dados
+
+✔️ Criação de banco de dados  
+✔️ Criação de tabelas no banco de dados  
+✔️ Inserção de dados nas tabelas  
+✔️ Consultas em banco de dados  
+✔️ Atualização de dados nas tabelas  
+✔️ Exclusão de dados nas tabelas  
+✔️ Exclusão de banco de dados
