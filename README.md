@@ -38,17 +38,17 @@ Cursando o 1º Semestre de ENG de Software breve resumo das atividades feitas at
 ✔️ Organização de Churrasco pelo Microsoft Project
 
 ### 🗃️ Banco de Dados
-✔️ Criação de banco de dados
-✔️ Criação de tabelas no banco de dados
-✔️ Inserção de dados nas tabelas
-✔️ Consultas em banco de dados
-✔️ Atualização de dados nas tabelas
-✔️ Exclusão de dados nas tabelas
-✔️ Exclusão de banco de dados
-✔️ Adição de colunas em tabelas existentes
-✔️ Remoção de colunas em tabelas existentes
-✔️ Alteração de tipo de dados de colunas
-✔️ Criação de chave estrangeira entre tabelas
-✔️ Renomeação de tabelas
-✔️ Exclusão de tabelas do banco de dados
-✔️ Definição de valor padrão para colunas
+✔️ Criação de banco de dados 
+✔️ Criação de tabelas no banco de dados 
+✔️ Inserção de dados nas tabelas 
+✔️ Consultas em banco de dados  
+✔️ Atualização de dados nas tabelas 
+✔️ Exclusão de dados nas tabelas 
+✔️ Exclusão de banco de dados 
+✔️ Adição de colunas em tabelas existentes 
+✔️ Remoção de colunas em tabelas existentes 
+✔️ Alteração de tipo de dados de colunas 
+✔️ Criação de chave estrangeira entre tabelas 
+✔️ Renomeação de tabelas 
+✔️ Exclusão de tabelas do banco de dados 
+✔️ Definição de valor padrão para colunas 
