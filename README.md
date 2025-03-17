@@ -22,7 +22,7 @@ Cursando o 1º Semestre de ENG de Software breve resumo das atividades feitas at
 ✔️ Verificação de múltiplos de 7 em Python  
 ✔️ Verificação se um conjunto de quatro lados forma um quadrilátero em Python  
 ✔️ Verificação de número par ou ímpar em Python  
-✔️ Verificação de número positivo ou negativo em Pyth
+✔️ Verificação de número positivo ou negativo em Python
 
 ### 📋 Projeto Integrador
 
@@ -37,18 +37,19 @@ Cursando o 1º Semestre de ENG de Software breve resumo das atividades feitas at
 
 ✔️ Organização de Churrasco pelo Microsoft Project
 
-### 🗃️ Banco de Dados
-✔️ Criação de banco de dados 
-✔️ Criação de tabelas no banco de dados 
-✔️ Inserção de dados nas tabelas 
+# 🗃️ Banco de Dados  
+
+✔️ Criação de banco de dados  
+✔️ Criação de tabelas no banco de dados  
+✔️ Inserção de dados nas tabelas  
 ✔️ Consultas em banco de dados  
-✔️ Atualização de dados nas tabelas 
-✔️ Exclusão de dados nas tabelas 
-✔️ Exclusão de banco de dados 
-✔️ Adição de colunas em tabelas existentes 
-✔️ Remoção de colunas em tabelas existentes 
-✔️ Alteração de tipo de dados de colunas 
-✔️ Criação de chave estrangeira entre tabelas 
-✔️ Renomeação de tabelas 
-✔️ Exclusão de tabelas do banco de dados 
-✔️ Definição de valor padrão para colunas 
+✔️ Atualização de dados nas tabelas  
+✔️ Exclusão de dados nas tabelas  
+✔️ Exclusão de banco de dados  
+✔️ Adição de colunas em tabelas existentes  
+✔️ Remoção de colunas em tabelas existentes  
+✔️ Alteração de tipo de dados de colunas  
+✔️ Criação de chave estrangeira entre tabelas  
+✔️ Renomeação de tabelas  
+✔️ Exclusão de tabelas do banco de dados  
+✔️ Definição de valor padrão para colunas  
