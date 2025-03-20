@@ -11,7 +11,7 @@ for cont in range(10):
         maior1 = num      # O maior1 recebe o valor do número atual
 
     elif num > maior2:
-        maior2 = num      # Caso o número seja maior que o Maior2
+        maior2 = num      # Caso o não seja maior que o número maior1, porem maior que o Maior2
 
 #Mostra o maior e o segundo maior
 print(f"O maior número digitado foi: {maior1}")
