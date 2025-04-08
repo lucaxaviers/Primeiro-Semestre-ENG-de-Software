@@ -1,0 +1,47 @@
+CREATE DATABASE LojaCarros;
+USE LojaCarros;
+
+CREATE TABLE Clientes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(100),
+    telefone VARCHAR(20)
+);
+
+CREATE TABLE Carros (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    modelo VARCHAR(100),
+    marca VARCHAR(50),
+    ano INT,
+    preco DECIMAL(10,2),
+);
+
+CREATE TABLE Vendas (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    cliente_id INT,
+    carro_id INT,
+    data_venda DATE,
+    FOREIGN KEY (cliente_id) REFERENCES Clientes(id),
+    FOREIGN KEY (carro_id) REFERENCES Carros(id)
+);
+
+INSERT INTO Clientes (nome, telefone) VALUES 
+('João Silva', '11999999999'),
+('Maria Oliveira', '21988887777');
+
+INSERT INTO Carros (modelo, marca, ano, preco) VALUES 
+('Corolla', 'Toyota', 2020, 95000.00),
+('Civic', 'Honda', 2021, 105000.00);
+
+DELETE FROM Clientes WHERE id = 2;
+
+ALTER TABLE Carros ADD cor VARCHAR(30);
+
+ALTER TABLE Carros DROP COLUMN cor;
+
+ALTER TABLE Carros MODIFY preco DECIMAL(12,2);
+
+RENAME TABLE Carros TO Veiculos;
+
+DROP TABLE Vendas;
+
+DROP DATABASE LojaCarros;
