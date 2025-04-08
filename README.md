@@ -6,7 +6,7 @@ Cursando o 1º Semestre de ENG de Software breve resumo das atividades feitas at
 
 ### ⚙️ Algoritmos e Programação
 
-✔ [Repositório de Algoritmos e Programação](https://github.com/lucaxaviers/Primeiro-Semestre-ENG-de-Software/tree/main/AlgoritmosdePrograma%C3%A7%C3%A3o)
+✔ [Atividades de Algoritmos e Programação](https://github.com/lucaxaviers/Primeiro-Semestre-ENG-de-Software/tree/main/AlgoritmosdePrograma%C3%A7%C3%A3o)
 
 ### 📋 Projeto Integrador  
 
