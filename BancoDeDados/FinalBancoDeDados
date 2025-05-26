@@ -1,0 +1,82 @@
+USE BD170225422;
+-- Tabelas
+CREATE TABLE republicas (
+  id INT PRIMARY KEY,
+  nome VARCHAR(100),
+  endereco VARCHAR(255)
+);
+
+CREATE TABLE moradores (
+  id INT PRIMARY KEY,
+  nome VARCHAR(100),
+  email VARCHAR(100),
+  republica_id INT
+);
+
+CREATE TABLE despesas (
+  id INT PRIMARY KEY,
+  descricao VARCHAR(100),
+  valor DECIMAL(10,2),
+  vencimento DATE,
+  republica_id INT
+);
+
+CREATE TABLE pagamentos (
+  id INT PRIMARY KEY,
+  morador_id INT,
+  despesa_id INT,
+  valor_pago DECIMAL(10,2),
+  data_pagamento DATE
+);
+
+CREATE TABLE divisao (
+  id INT PRIMARY KEY,
+  morador_id INT,
+  despesa_id INT,
+  valor_a_pagar DECIMAL(10,2)
+);
+
+-- Dados
+INSERT INTO republicas VALUES
+(1, 'República Alfa', 'Rua A, 100'),
+(2, 'República Beta', 'Rua B, 200');
+
+INSERT INTO moradores VALUES
+(1, 'João', 'joao@email.com', 1),
+(2, 'Maria', 'maria@email.com', 1),
+(3, 'Carlos', 'carlos@email.com', 1),
+(4, 'Ana', 'ana@email.com', 2);
+
+INSERT INTO despesas VALUES
+(1, 'Aluguel', 1500.00, '2025-05-10', 1),
+(2, 'Luz', 200.00, '2025-05-12', 1);
+
+INSERT INTO pagamentos VALUES
+(1, 1, 1, 500.00, '2025-05-02'),
+(2, 2, 1, 500.00, '2025-05-03');
+
+INSERT INTO divisao VALUES
+(1, 1, 1, 500.00),
+(2, 2, 1, 500.00),
+(3, 3, 1, 500.00),
+(4, 1, 2, 100.00),
+(5, 2, 2, 100.00);
+
+SELECT m.nome AS morador, r.nome AS republica
+FROM moradores m
+JOIN republicas r ON m.republica_id = r.id;
+
+SELECT d.descricao, d.valor, d.vencimento, r.nome AS republica
+FROM despesas d
+JOIN republicas r ON d.republica_id = r.id
+WHERE r.nome = 'República Alfa';
+
+SELECT m.nome AS morador, d.descricao AS despesa, p.valor_pago, p.data_pagamento
+FROM pagamentos p
+JOIN moradores m ON p.morador_id = m.id
+JOIN despesas d ON p.despesa_id = d.id;
+
+
+
+
+
