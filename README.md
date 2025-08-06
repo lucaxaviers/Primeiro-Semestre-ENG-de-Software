@@ -1,1 +1,1 @@
-# 🎓 1º Semestre - Engenharia de Software
+# 🎓 1º Semestre de Engenharia de Software
