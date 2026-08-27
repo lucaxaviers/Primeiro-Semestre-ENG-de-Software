@@ -1,64 +1,96 @@
+<div align="center">
+
 # 🎓 Engenharia de Software — 1º Semestre
+### **Pontifícia Universidade Católica de Campinas (PUC-Campinas)**
 
-[![Linguagem](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Database](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![Instituição](https://img.shields.io/badge/PUC--Campinas-Engenharia_de_Software-B22222?style=for-the-badge)](https://www.puc-campinas.edu.br/)
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/MySQL-8.0-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PUC--Campinas-Engenharia_de_Software-B22222?style=for-the-badge" alt="PUC-Campinas" />
+  <img src="https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge" alt="Status" />
+</p>
 
-Repositório dedicado ao versionamento e armazenamento de todas as atividades práticas, listas de exercícios, scripts de banco de dados e pesquisas desenvolvidas durante o **1º Semestre** do curso de **Engenharia de Software** na **PUC-Campinas**.
-
----
-
-## 📚 Disciplinas e Conteúdos
-
-### 🐍 1. Algoritmos e Lógica de Programação
-Conjunto robusto com mais de 40 scripts em Python explorando desde a sintaxe fundamental até estruturas de controle e cálculos aplicados:
-
-- **Atividades em Python (`AlgoritmosdeProgramação/AtividadesEmPython/`):**
-  - `AlturaDesejada.py`: Cálculo de degraus para alcançar altura desejada.
-  - `AntecessorSucessor.py`: Operações com inteiros vizinhos.
-  - `AreaPerimetro.py`: Geometria e cálculo de área/perímetro de quadriláteros.
-  - `AtribuirValor.py`: Condicionais de igualdade com soma ou multiplicação.
-  - `Caixa-Troco.py`: Algoritmo guloso de decomposição de cédulas (R$ 100, 50, 20, 10, 5, 2, 1) sem laços.
-  - `ConversorDolar.py`: Conversão cambial parametrizada.
-  - `DescontoSalarial.py`: Cálculo de proventos, desconto de 8% e salário líquido.
-  - `DivisãoSimultanea.py`: Verificação de divisibilidade por múltiplos números.
-  - `Fahrenheit-Celsius.py`: Conversão térmica.
-  - `Par-Impar.py` e `PositivoNegativo.py`: Análise e validação numérica.
-- **Listas de Exercícios & Revisões (`EXERCICIOS/`, `EstudoLucia/`, `Revisão/`):**
-  - Dezenas de programas cobrindo estruturas de repetição (`while`, `for`), acumuladores, contadores e intervalos numéricos.
-
-### 🗄️ 2. Banco de Dados Relacional
-Scripts em linguagem SQL estruturados para modelagem de entidades e relacionamentos:
-- `clinica_veterinaria.sql`: DDL/DML para gerenciamento de consultas veterinárias, pets e tutores.
-- `loja_de_carros.sql` e `sistema_vendas_veiculos.sql`: Controle de estoque automotivo, clientes e transações comerciais.
-- `comando-AS.sql`: Consultas com projeções, aliases e formatação de resultados.
-
-### 🌿 3. Projeto Integrador (Sustentabilidade)
-- `SustentabilidadeSistema.py`: Sistema em Python aplicando regras e cálculos voltados à sustentabilidade e eficiência.
-- Artigos e pesquisas em PDF (`Pesquisas/`): Conceitos de projetos, requisitos de software e métricas ecológicas.
+<p align="center">
+  Repositório acadêmico contendo todos os algoritmos, listas de exercícios, scripts de banco de dados relacional e projetos práticos desenvolvidos durante o primeiro semestre de graduação.
+</p>
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+</div>
 
-- **Linguagem:** Python 3
-- **Banco de Dados:** SQL / MySQL
-- **Ferramentas:** VS Code, Git, MS Project (`ProjectChurras.mpp`)
+## 📑 Índice de Conteúdos
 
----
-
-## 🚀 Como Executar os Scripts Python
-
-1. Certifique-se de ter o Python 3 instalado:
-   ```bash
-   python --version
-   ```
-2. Execute qualquer um dos scripts:
-   ```bash
-   python "AlgoritmosdeProgramação/AtividadesEmPython/Caixa-Troco.py"
-   ```
+- [🐍 1. Algoritmos e Lógica de Programação](#-1-algoritmos-e-lógica-de-programação)
+- [🗄️ 2. Banco de Dados Relacional](#️-2-banco-de-dados-relacional)
+- [🌿 3. Projeto Integrador (Sustentabilidade)](#-3-projeto-integrador-sustentabilidade)
+- [🛠️ Tecnologias e Ferramentas](#️-tecnologias-e-ferramentas)
+- [🚀 Como Executar os Scripts](#-como-executar-os-scripts)
 
 ---
 
-> **Desenvolvido por Lucas Rodrigues Xavier**  
-> *Graduando em Engenharia de Software — PUC-Campinas*
+## 🐍 1. Algoritmos e Lógica de Programação
+
+Módulo composto por **mais de 40 programas em Python**, organizados em diretórios temáticos:
+
+### 📂 Atividades Práticas (`AlgoritmosdeProgramação/AtividadesEmPython/`)
+| Script | Descrição e Conceitos |
+|---|---|
+| `Caixa-Troco.py` | Algoritmo guloso para cálculo de troco em cédulas (R$ 100, 50, 20, 10, 5, 2, 1) sem laços. |
+| `ConversorDolar.py` | Conversão cambial parametrizada com cotação dinâmica. |
+| `DescontoSalarial.py` | Cálculo de diárias de prestação de serviços, retenções de 8% e salário líquido. |
+| `AlturaDesejada.py` | Cálculo de degraus para atingir altura estipulada. |
+| `AreaPerimetro.py` | Geometria plana e cálculos de áreas e perímetros. |
+| `DivisãoSimultanea.py` | Testes lógicos de divisibilidade múltipla. |
+| `Fahrenheit-Celsius.py` | Conversão térmica com equações lineares. |
+
+### 📂 Listas e Revisões (`EXERCICIOS/`, `EstudoLucia/`, `Revisão/`)
+- Estruturas de repetição condicionais (`while`) e contadas (`for`).
+- Contadores em intervalos numéricos (`[0, 25]`, `[26, 50]`, `[51, 75]`, `[76, 100]`).
+- Validação de entradas e tratamento de flags de parada.
+
+---
+
+## 🗄️ 2. Banco de Dados Relacional
+
+Modelagem conceitual, lógica e física em **SQL** (`BancoDeDados/`):
+- `clinica_veterinaria.sql`: Modelagem de atendimentos clínicos, pacientes (animais) e tutores.
+- `loja_de_carros.sql` & `sistema_vendas_veiculos.sql`: Gestão de inventário automotivo e transações.
+- `comando-AS.sql`: Projeções, renomeação de colunas com `AS` e formatação de relatórios.
+
+---
+
+## 🌿 3. Projeto Integrador (Sustentabilidade)
+
+- `SustentabilidadeSistema.py`: Aplicação de software voltada a métricas sustentáveis e eficiência energética.
+- Documentos de pesquisa (`Pesquisas/`): Levantamento de requisitos, conceitos arquiteturais e boas práticas sustentáveis.
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+```
+├── Linguagens: Python 3, SQL
+├── Banco de Dados: MySQL
+└── Ferramentas: VS Code, Git, MS Project
+```
+
+---
+
+## 🚀 Como Executar os Scripts
+
+```bash
+# 1. Clonar o repositório
+git clone https://github.com/lucaxaviers/primeiro-semestre-eng-software.git
+
+# 2. Acessar a pasta
+cd primeiro-semestre-eng-software
+
+# 3. Executar qualquer script Python
+python "AlgoritmosdeProgramação/AtividadesEmPython/Caixa-Troco.py"
+```
+
+---
+
+<div align="center">
+  <sub>Graduação em Engenharia de Software — PUC-Campinas</sub>
+</div>
