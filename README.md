@@ -80,10 +80,10 @@ Modelagem conceitual, lógica e física em **SQL** (`BancoDeDados/`):
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/lucaxaviers/primeiro-semestre-eng-software.git
+git clone https://github.com/lucaxaviers/Primeiro-Semestre-ENG-de-Software.git
 
 # 2. Acessar a pasta
-cd primeiro-semestre-eng-software
+cd Primeiro-Semestre-ENG-de-Software
 
 # 3. Executar qualquer script Python
 python "AlgoritmosdeProgramação/AtividadesEmPython/Caixa-Troco.py"
