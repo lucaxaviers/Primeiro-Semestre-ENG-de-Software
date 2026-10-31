@@ -43,6 +43,13 @@ Módulo composto por **mais de 40 programas em Python**, organizados em diretór
 | `DivisãoSimultanea.py` | Testes lógicos de divisibilidade múltipla. |
 | `Fahrenheit-Celsius.py` | Conversão térmica com equações lineares. |
 
+
+### 🚀 Projetos Práticos em Python (AlgoritmosdeProgramação/Projetos/)
+| Projeto | Diretório | Descrição e Conceitos |
+|---|---|---|
+| **Sistema de Passagens** | [SistemaPassagens/](AlgoritmosdePrograma%C3%A7%C3%A3o/Projetos/SistemaPassagens/) | Sistema em terminal para consulta, reserva e emissão de passagens aéreas em Python. |
+| **Sistema de Notas** | [SistemaNotas/](AlgoritmosdePrograma%C3%A7%C3%A3o/Projetos/SistemaNotas/) | Cálculo automatizado de médias acadêmicas ponderadas (MT, MP, MF) e status de aprovação. |
+| **Jogo Secreto** | [JogoSecreto/](AlgoritmosdePrograma%C3%A7%C3%A3o/Projetos/JogoSecreto/) | Jogo interativo de dedução lógica e adivinhação de 4 dígitos com dicas em tempo real. |
 ### 📂 Listas e Revisões (`EXERCICIOS/`, `EstudoLucia/`, `Revisão/`)
 - Estruturas de repetição condicionais (`while`) e contadas (`for`).
 - Contadores em intervalos numéricos (`[0, 25]`, `[26, 50]`, `[51, 75]`, `[76, 100]`).
